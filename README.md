@@ -1,5 +1,5 @@
-# krunker skin hacks
-# Skin hack for krunker.io
+# Krunker skin hacks
+Skin hack for krunker.io
 
 # Information 
 Unlocks every skin in krunker.io, new skins which are added to game but can't be used by other players like eternal flame are also unlocked.
